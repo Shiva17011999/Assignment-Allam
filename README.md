@@ -33,6 +33,26 @@ This table shows my recommendation to 4 different places one should definitely v
 >Don't give up -*Sri Tarun*
 
 ---
+### Code Fencing 
+>Material Shadows Mixin
+[stack overflow link](https://stackoverflow.com/questions/30533055/calculating-shadow-values-for-all-material-design-elevations/52740764#52740764)
+```
+/// Gives a card depth effect.
+/// @param {Number} $depth - depth level (between 1 and 5)
+/// @link http://www.google.com/design/spec/layout/layout-principles.html#layout-principles-dimensionality Google Design
+/// @requires {function} top-shadow
+/// @requires {function} bottom-shadow
+@mixin card($depth) {
+  @if $depth < 1 {
+    box-shadow: none;
+  } @else if $depth > 5 {
+    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
+  } @else {
+    box-shadow: bottom-shadow($depth), top-shadow($depth);  
+  }
+}
+```
+[css-tricks-link](https://css-tricks.com/snippets/sass/material-shadows-mixin/)
 
 
 
