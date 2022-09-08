@@ -17,4 +17,14 @@ Places near the museum
 - Ram Laxman Theatre
 - Kila Warangal Fort
 
-[Link to my About Me]()
+[Link to my About Me](https://github.com/Shiva17011999/Assignment2-Allam/blob/main/AboutMe.md)
+---
+### Tables
+This table shows my recommendation to 4 different places one should definitely visit.
+| City | Location | Time |
+| --- | --- | ---: |
+| Goa | Beach | 2 hours <br> half day |
+| Maryville | Mozingo | 3 hours <br> 5 hours |
+| Bangalore | Wonderla <br> Mysore Palace | 6 hours <br> 3 hours |
+
+
