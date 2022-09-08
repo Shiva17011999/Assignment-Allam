@@ -27,4 +27,12 @@ This table shows my recommendation to 4 different places one should definitely v
 | Maryville | Mozingo | 3 hours |
 | Bangalore | Wonderla <br> Mysore Palace | 6 hours <br> 3 hours |
 
+---
+### Pithy quotes
+>Your attitude, not your aptitude, will determine your altitude. -*Zig Ziglar* <br>
+>Don't give up -*Sri Tarun*
+
+---
+
+
 
