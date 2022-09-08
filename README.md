@@ -23,8 +23,8 @@ Places near the museum
 This table shows my recommendation to 4 different places one should definitely visit.
 | City | Location | Time |
 | --- | --- | ---: |
-| Goa | Beach | 2 hours <br> half day |
-| Maryville | Mozingo | 3 hours <br> 5 hours |
+| Goa | Beach <br> Church| 2 hours <br> half day |
+| Maryville | Mozingo | 3 hours |
 | Bangalore | Wonderla <br> Mysore Palace | 6 hours <br> 3 hours |
 
 
